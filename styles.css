@@ -1,0 +1,17 @@
+<style>
+
+.keys{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.key{
+  margin:20px;
+  font-size:40px;
+  padding:40px;
+  border:solid;
+  border-radius:5px;
+  transition: all 0.07 s;
+}
+
+</style>
